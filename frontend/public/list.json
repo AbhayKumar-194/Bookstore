@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17350.jpg?t=st=1721224097~exp=1721227697~hmac=b88045362aa381c8b926592f9e21bc03342f44c4b2828804f6e077f77905c663&w=740"
+    },
+    {
+        "id":2,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":20,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17350.jpg?t=st=1721224097~exp=1721227697~hmac=b88045362aa381c8b926592f9e21bc03342f44c4b2828804f6e077f77905c663&w=740"
+    },
+    {
+        "id":3,
+        "name":"Music Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Music",
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17350.jpg?t=st=1721224097~exp=1721227697~hmac=b88045362aa381c8b926592f9e21bc03342f44c4b2828804f6e077f77905c663&w=740"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17350.jpg?t=st=1721224097~exp=1721227697~hmac=b88045362aa381c8b926592f9e21bc03342f44c4b2828804f6e077f77905c663&w=740"
+    },
+    {
+        "id":5,
+        "name":"Food Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":200,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17350.jpg?t=st=1721224097~exp=1721227697~hmac=b88045362aa381c8b926592f9e21bc03342f44c4b2828804f6e077f77905c663&w=740"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-psd/books-stacked-isolated-transparent-background_191095-17350.jpg?t=st=1721224097~exp=1721227697~hmac=b88045362aa381c8b926592f9e21bc03342f44c4b2828804f6e077f77905c663&w=740"
+    }
+
+]
